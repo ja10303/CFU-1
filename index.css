@@ -14,7 +14,7 @@ body {
 
 .wrapper-title {
     font-family:Arial Black ;
-    text-align: center;
+    text-align:center;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: rgb(15, 2, 27);
@@ -25,12 +25,12 @@ body {
 
 .wrapper-sub-title {
     font-family:Arial;
-    text-align: center;
+    text-align:center;
     letter-spacing: 1.8px;
     margin-top: 20px;
     margin-bottom: 5px;
     font-weight: 800;
-    color: rgb(25, 3, 59);
+    color: rgb(8, 1, 17);
 }
 
 .descp-text {
