@@ -24,14 +24,17 @@ body {
 }
 
 .wrapper-sub-title {
+    font-family:Arial;
+    text-align: center;
     letter-spacing: 1.8px;
     margin-top: 20px;
     margin-bottom: 5px;
     font-weight: 800;
-    color: rgb(19, 89, 155);
+    color: rgb(25, 3, 59);
 }
 
 .descp-text {
+    font-family:Arial;
     letter-spacing: 1px;
     line-height: 1.4em;
     text-align: justify;
